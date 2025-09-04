@@ -1,0 +1,14 @@
+C:\Users\443891\Desktop\Nova pasta (3)\Vamo Gurizes\bin\Debug\net9.0\Vamo Gurizes.exe
+C:\Users\443891\Desktop\Nova pasta (3)\Vamo Gurizes\bin\Debug\net9.0\Vamo Gurizes.deps.json
+C:\Users\443891\Desktop\Nova pasta (3)\Vamo Gurizes\bin\Debug\net9.0\Vamo Gurizes.runtimeconfig.json
+C:\Users\443891\Desktop\Nova pasta (3)\Vamo Gurizes\bin\Debug\net9.0\Vamo Gurizes.dll
+C:\Users\443891\Desktop\Nova pasta (3)\Vamo Gurizes\bin\Debug\net9.0\Vamo Gurizes.pdb
+C:\Users\443891\Desktop\Nova pasta (3)\Vamo Gurizes\obj\Debug\net9.0\Vamo Gurizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\443891\Desktop\Nova pasta (3)\Vamo Gurizes\obj\Debug\net9.0\Vamo Gurizes.AssemblyInfoInputs.cache
+C:\Users\443891\Desktop\Nova pasta (3)\Vamo Gurizes\obj\Debug\net9.0\Vamo Gurizes.AssemblyInfo.cs
+C:\Users\443891\Desktop\Nova pasta (3)\Vamo Gurizes\obj\Debug\net9.0\Vamo Gurizes.csproj.CoreCompileInputs.cache
+C:\Users\443891\Desktop\Nova pasta (3)\Vamo Gurizes\obj\Debug\net9.0\Vamo Gurizes.dll
+C:\Users\443891\Desktop\Nova pasta (3)\Vamo Gurizes\obj\Debug\net9.0\refint\Vamo Gurizes.dll
+C:\Users\443891\Desktop\Nova pasta (3)\Vamo Gurizes\obj\Debug\net9.0\Vamo Gurizes.pdb
+C:\Users\443891\Desktop\Nova pasta (3)\Vamo Gurizes\obj\Debug\net9.0\Vamo Gurizes.genruntimeconfig.cache
+C:\Users\443891\Desktop\Nova pasta (3)\Vamo Gurizes\obj\Debug\net9.0\ref\Vamo Gurizes.dll
