@@ -1,0 +1,30 @@
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Bubble Sort\obj\Debug\net9.0\Bubble Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Bubble Sort\obj\Debug\net9.0\Bubble Sort.AssemblyInfoInputs.cache
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Bubble Sort\obj\Debug\net9.0\Bubble Sort.AssemblyInfo.cs
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Bubble Sort\obj\Debug\net9.0\Bubble Sort.csproj.CoreCompileInputs.cache
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Bubble Sort\obj\Debug\net9.0\Bubble Sort.sourcelink.json
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Bubble Sort\bin\Debug\net9.0\Bubble Sort.exe
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Bubble Sort\bin\Debug\net9.0\Bubble Sort.deps.json
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Bubble Sort\bin\Debug\net9.0\Bubble Sort.runtimeconfig.json
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Bubble Sort\bin\Debug\net9.0\Bubble Sort.dll
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Bubble Sort\bin\Debug\net9.0\Bubble Sort.pdb
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Bubble Sort\obj\Debug\net9.0\Bubble Sort.dll
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Bubble Sort\obj\Debug\net9.0\refint\Bubble Sort.dll
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Bubble Sort\obj\Debug\net9.0\Bubble Sort.pdb
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Bubble Sort\obj\Debug\net9.0\Bubble Sort.genruntimeconfig.cache
+C:\Users\446984\Desktop\Estrutura-de-Dados-2025\Bubble Sort\obj\Debug\net9.0\ref\Bubble Sort.dll
+C:\Users\Luiz Santos\Desktop\Estrutura-de-Dados-2025\Bubble Sort\bin\Debug\net9.0\Bubble Sort.exe
+C:\Users\Luiz Santos\Desktop\Estrutura-de-Dados-2025\Bubble Sort\bin\Debug\net9.0\Bubble Sort.deps.json
+C:\Users\Luiz Santos\Desktop\Estrutura-de-Dados-2025\Bubble Sort\bin\Debug\net9.0\Bubble Sort.runtimeconfig.json
+C:\Users\Luiz Santos\Desktop\Estrutura-de-Dados-2025\Bubble Sort\bin\Debug\net9.0\Bubble Sort.dll
+C:\Users\Luiz Santos\Desktop\Estrutura-de-Dados-2025\Bubble Sort\bin\Debug\net9.0\Bubble Sort.pdb
+C:\Users\Luiz Santos\Desktop\Estrutura-de-Dados-2025\Bubble Sort\obj\Debug\net9.0\Bubble Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luiz Santos\Desktop\Estrutura-de-Dados-2025\Bubble Sort\obj\Debug\net9.0\Bubble Sort.AssemblyInfoInputs.cache
+C:\Users\Luiz Santos\Desktop\Estrutura-de-Dados-2025\Bubble Sort\obj\Debug\net9.0\Bubble Sort.AssemblyInfo.cs
+C:\Users\Luiz Santos\Desktop\Estrutura-de-Dados-2025\Bubble Sort\obj\Debug\net9.0\Bubble Sort.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Santos\Desktop\Estrutura-de-Dados-2025\Bubble Sort\obj\Debug\net9.0\Bubble Sort.sourcelink.json
+C:\Users\Luiz Santos\Desktop\Estrutura-de-Dados-2025\Bubble Sort\obj\Debug\net9.0\Bubble Sort.dll
+C:\Users\Luiz Santos\Desktop\Estrutura-de-Dados-2025\Bubble Sort\obj\Debug\net9.0\refint\Bubble Sort.dll
+C:\Users\Luiz Santos\Desktop\Estrutura-de-Dados-2025\Bubble Sort\obj\Debug\net9.0\Bubble Sort.pdb
+C:\Users\Luiz Santos\Desktop\Estrutura-de-Dados-2025\Bubble Sort\obj\Debug\net9.0\Bubble Sort.genruntimeconfig.cache
+C:\Users\Luiz Santos\Desktop\Estrutura-de-Dados-2025\Bubble Sort\obj\Debug\net9.0\ref\Bubble Sort.dll
