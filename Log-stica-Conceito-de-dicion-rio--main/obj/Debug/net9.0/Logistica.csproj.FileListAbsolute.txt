@@ -1,0 +1,14 @@
+C:\Users\274018\Desktop\Estrutura de dados 1 - 2025\Atividades\Logistica\bin\Debug\net9.0\Logistica.exe
+C:\Users\274018\Desktop\Estrutura de dados 1 - 2025\Atividades\Logistica\bin\Debug\net9.0\Logistica.deps.json
+C:\Users\274018\Desktop\Estrutura de dados 1 - 2025\Atividades\Logistica\bin\Debug\net9.0\Logistica.runtimeconfig.json
+C:\Users\274018\Desktop\Estrutura de dados 1 - 2025\Atividades\Logistica\bin\Debug\net9.0\Logistica.dll
+C:\Users\274018\Desktop\Estrutura de dados 1 - 2025\Atividades\Logistica\bin\Debug\net9.0\Logistica.pdb
+C:\Users\274018\Desktop\Estrutura de dados 1 - 2025\Atividades\Logistica\obj\Debug\net9.0\Logistica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\274018\Desktop\Estrutura de dados 1 - 2025\Atividades\Logistica\obj\Debug\net9.0\Logistica.AssemblyInfoInputs.cache
+C:\Users\274018\Desktop\Estrutura de dados 1 - 2025\Atividades\Logistica\obj\Debug\net9.0\Logistica.AssemblyInfo.cs
+C:\Users\274018\Desktop\Estrutura de dados 1 - 2025\Atividades\Logistica\obj\Debug\net9.0\Logistica.csproj.CoreCompileInputs.cache
+C:\Users\274018\Desktop\Estrutura de dados 1 - 2025\Atividades\Logistica\obj\Debug\net9.0\Logistica.dll
+C:\Users\274018\Desktop\Estrutura de dados 1 - 2025\Atividades\Logistica\obj\Debug\net9.0\refint\Logistica.dll
+C:\Users\274018\Desktop\Estrutura de dados 1 - 2025\Atividades\Logistica\obj\Debug\net9.0\Logistica.pdb
+C:\Users\274018\Desktop\Estrutura de dados 1 - 2025\Atividades\Logistica\obj\Debug\net9.0\Logistica.genruntimeconfig.cache
+C:\Users\274018\Desktop\Estrutura de dados 1 - 2025\Atividades\Logistica\obj\Debug\net9.0\ref\Logistica.dll
